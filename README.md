@@ -1,2 +1,3 @@
 # MachineLearning
-Machine Learning Projects
+Machine learning projects and models developed by Bruno Tortola
+https://www.linkedin.com/in/brunotortola/
